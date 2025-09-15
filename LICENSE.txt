@@ -1,0 +1,35 @@
+## LICENSE AGREEMENT
+
+Copyright (c) 2025 Ixent Games. All Rights Reserved.
+
+The content of this repository, including all research papers (Paper 1, Paper 2, Paper 3, Paper 4), annexes, appendices, and associated documentation (collectively, "the Work"), is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).
+
+---
+
+### Summary (In Plain English)
+
+This license allows you to:
+
+* **Share:** You are free to copy and redistribute the material in any medium or format for any purpose, including commercial purposes.
+
+Under the following conditions:
+
+* **Attribution:** You must give appropriate credit to the original authors and Ixent Games, provide a link to the license, and indicate if any changes were made (though no changes to the content itself are permitted).
+
+* **No Derivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material. You are not allowed to change the content of the papers or their annexes.
+
+---
+
+### How to Attribute Our Work
+
+When sharing or referencing our work, please include the following attribution:
+
+**"The STAR-XAI Protocol Papers (2025) by Antoni Guasch and Mar¡a Isabel Valdez, under license from Ixent Games (CC BY-ND 4.0)."**
+
+---
+
+### Legal Code
+
+The full legal code of the license can be found at the following URL:
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
+
