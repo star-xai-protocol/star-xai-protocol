@@ -34,7 +34,7 @@ This repository offers unprecedented transparency by including the full logs of 
 
 * **[00_250601_v0.0_Evolution_From-Visual-Analysis-to-Coded-Model.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/00_250601_v0.0_Evolution_From-Visual-Analysis-to-Coded-Model.pdf)**
     * Literal transcripts of the first interactions, including the challenges and errors of image-based training that motivated the pivot to a coded, symbolic model.
-* **[00_250617_v2.7-v2.9_Level-2_First-and-Second-Games-Won.pdf](link-to-file)**
+* **[00_250617_v2.7-v2.9_Level-2_First-and-Second-Games-Won.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/00_250617_v2.7-v2.9_Level-2_First-and-Second-Games-Won.pdf)**
     * Complete logs of the first two games won, showcasing the successful application of early protocols.
 * **[00_250808_v5.9_Level-6_Game-Played-with-100-Success.docx](link-to-file)**
     * Full log of the Level 6 game, completed without errors.
