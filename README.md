@@ -1,6 +1,6 @@
 # The STAR-XAI Protocol: Chronicles of Training a Transparent AI
 
-![STAR-XAI Protocol Banner](https://i.imgur.com/your-banner-image-link.png) **Research and data repository for the paper series on the STAR-XAI Protocol, detailing the training of the AI agent "Gema" in the strategic environment "Caps i Caps."**
+![STAR-XAI Protocol Banner]([https://i.imgur.com/your-banner-image-link.png](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/banner.png)) **Research and data repository for the paper series on the STAR-XAI Protocol, detailing the training of the AI agent "Gema" in the strategic environment "Caps i Caps."**
 
 ---
 
