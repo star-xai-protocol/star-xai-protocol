@@ -38,7 +38,7 @@ This repository offers unprecedented transparency by including the full logs of 
     * Complete logs of the first two games won, showcasing the successful application of early protocols.
 * **[00_250808_v5.9_Level-6_Game-Played-with-100-Success.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/00_250808_v5.9_Level-6_Game-Played-with-100-Success.pdf)**
     * Full log of the Level 6 game, completed without errors.
-* **[00_250811_v7.3-v7.4_Level-9_Game-Played-with-100-Success.docx](link-to-file)**
+* **[00_250811_v7.3-v7.4_Level-9_Game-Played-with-100-Success.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/00_250811_v7.3-v7.4_Level-9_Game-Played-with-100-Success.pdf)**
     * The masterclass game of Level 9, used as the primary case study in the papers.
 
 ### 🧬 **Evolution of the Protocol and the CTP**
