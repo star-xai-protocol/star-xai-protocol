@@ -43,7 +43,7 @@ This repository offers unprecedented transparency by including the full logs of 
 
 ### 🧬 **Evolution of the Protocol and the CTP**
 
-* **[01_250614-250726_v2.2-v7.4_Rules-and-CTP-Evolution.docx](link-to-file)**
+* **[01_250614-250726_v2.2-v7.4_Rules-and-CTP-Evolution.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/01_250614-250726_v2.2-v7.4_Rules-and-CTP-Evolution.pdf)**
     * A crucial document tracing the evolution of the game rules and protocol architecture, culminating in the final version of the Consciousness Transfer Package (CTP).
 
 ### 💬 **Complete Training Conversations (13 Parts)**
