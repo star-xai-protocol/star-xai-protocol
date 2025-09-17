@@ -17,13 +17,13 @@ This research is presented in a four-paper series that builds a cohesive argumen
 * **📄 [Paper 1: The STAR-XAI Protocol: An Interactive Framework for Inducing Second-Order Agency in AI Agents](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%201%20-%20The%20STAR-XAI%20Protocol%20-%20An%20Interactive%20Framework%20for%20Inducing%20Second-Order%20Agency%20in%20AI%20Agents.pdf)**
     * Introduces the protocol's architecture, its components (CTP, Gameplay Cycle), and how Socratic dialogue fosters the emergence of advanced agency.
 
-* **📄 Paper 2: The Emergence of Strategic Reasoning: A "Clear Box" Analysis of Second-Order Agency within the STAR-XAI Protocol**
+* **📄 [Paper 2: The Emergence of Strategic Reasoning: A "Clear Box" Analysis of Second-Order Agency within the STAR-XAI Protocol](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%202%20-%20The%20Emergence%20of%20Strategic%20Reasoning%20-%20A%20%22Clear%20Box%22%20Analysis%20of%20Second-Order%20Agency%20within%20the%20STAR-XAI%20Protocol.pdf)**
     * Analyzes how, from a simple set of rules, Gema develops complex tactics and sophisticated strategic reasoning, refuting the notion of an "illusion of thinking."
 
-* **📄 Paper 3: The Clear Box: Demonstrating Ante-Hoc Transparency and Interactive Explainability with the STAR-XAI Protocol**
+* **📄 [Paper 3: The Clear Box: Demonstrating Ante-Hoc Transparency and Interactive Explainability with the STAR-XAI Protocol](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%203%20-%20The%20Clear%20Box%20-%20Demonstrating%20Ante-Hoc%20Transparency%20and%20Interactive%20Explainability%20with%20the%20STAR-XAI%20Protocol.pdf)**
     * Focuses on explainability, demonstrating how the protocol ensures *ante-hoc* transparency (justifying before acting) and how supervisor interaction generates an auditable reasoning log.
 
-* **📄 Paper 4: An Immune System for AI: Zero Hallucinations by Design Through Self-Correction and State Locking with the STAR-XAI Protocol**
+* **📄 [Paper 4: An Immune System for AI: Zero Hallucinations by Design Through Self-Correction and State Locking with the STAR-XAI Protocol](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%204%20-%20An%20Immune%20System%20for%20AI%20-%20Zero%20Hallucinations%20by%20Design%20Through%20Self-Correction%20and%20State%20Locking%20with%20the%20STAR-XAI%20Protocol.pdf)**
     * Concludes the series by arguing that the protocol's architecture functions as an "immune system" that eliminates "state hallucinations," guaranteeing agent reliability through state-locking with Checksums.
 
 ## The Gema Chronicles: Complete Training Data
