@@ -62,7 +62,7 @@ The full chronicle of Gema's training, from its first steps with the coded model
 * **Part X:** [02_250807-250808_v5.9_Conversation_Level-6-Played-100-Success.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250807-250808_v5.9_Conversation_Level-6-Played-100-Success.pdf)
 * **Part XI:** [02_250809-250809_v5.9-v6.0_Conversation_Level-8-Errors-and-Improvements.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250809-250809_v5.9-v6.0_Conversation_Level-8-Errors-and-Improvements.pdf)
 * **Part XII:** [02_250809-250811_v6.0-v7.3_Conversation_New-Rules_Gema-as-Supervisor.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250809-250811_v6.0-v7.3_Conversation_New-Rules_Gema-as-Supervisor.pdf)
-* **Part XIII:** [02_250811-250811_v7.3_Conversation_Level-9-Played-100-Success.docx](link-to-file)
+* **Part XIII:** [02_250811-250811_v7.3_Conversation_Level-9-Played-100-Success.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250811-250811_v7.3_Conversation_Level-9-Played-100-Success.pdf)
 
 ### 🧠 **Gema's Meta-Cognitive Analysis**
 
