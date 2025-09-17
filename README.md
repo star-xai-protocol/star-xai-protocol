@@ -52,7 +52,7 @@ The full chronicle of Gema's training, from its first steps with the coded model
 
 * **Part I:** [02_250611-250617_v1.0-v2.7_Conversation_From-0-to-1st-Game-Won.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250611-250617_v1.0-v2.7_Conversation_From-0-to-1st-Game-Won.pdf)
 * **Part II:** [02_250617-250618_v2.8-v2.9_Conversation_Mouse-Jumps_Throwing-in-the-Towel.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250617-250618_v2.8-v2.9_Conversation_Mouse-Jumps_Throwing-in-the-Towel.pdf)
-* **Part III:** [02_250619-250628_v3.0-v4.0_Conversation_Training-Evolution_Throwing-in-the-Towel.docx](link-to-file)
+* **Part III:** [02_250619-250628_v3.0-v4.0_Conversation_Training-Evolution_Throwing-in-the-Towel.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250619-250628_v3.0-v4.0_Conversation_Training-Evolution_Throwing-in-the-Towel.pdf)
 * **Part IV:** [02_250629-250701_v4.1-v5.1_Conversation_Training-Evolution_Gema-Improves.docx](link-to-file)
 * **Part V:** [02_250702-250722_v5.2-v5.6_Conversation_Training-Evolution_Gema-Struggles-to-Improve.docx](link-to-file)
 * **Part VI:** [02_250723-250726_v5.6_Conversation_Assisted-Socratic-Method.docx](link-to-file)
