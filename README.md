@@ -68,7 +68,7 @@ The full chronicle of Gema's training, from its first steps with the coded model
 
 A collection of documents that extract and analyze the most revealing moments of the training.
 
-* **[03_250611-250822_v2.9-v5.7_Gemas-Attempts-to-Throw-in-the-Towel.docx](link-to-file)**
+* **[03_250611-250822_v2.9-v5.7_Gemas-Attempts-to-Throw-in-the-Towel.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/03_250611-250822_v2.9-v5.7_Gemas-Attempts-to-Throw-in-the-Towel.pdf)**
     * A compilation of all moments where Gema, faced with its own failures, concludes it is unable to proceed—a key document for understanding the "agentic gap."
 * **[04_250611-250822_v2.9-v7.2_How-Gema-Reasons.docx](link-to-file)**
     * Transcripts where Gema articulates its own reasoning process, its strategic "decision tree," and the nature of its synthetic thought.
