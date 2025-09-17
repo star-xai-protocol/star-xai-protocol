@@ -72,7 +72,7 @@ A collection of documents that extract and analyze the most revealing moments of
     * A compilation of all moments where Gema, faced with its own failures, concludes it is unable to proceed—a key document for understanding the "agentic gap."
 * **[04_250611-250822_v2.9-v7.2_How-Gema-Reasons.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/04_250611-250822_v2.9-v7.2_How-Gema-Reasons.pdf)**
     * Transcripts where Gema articulates its own reasoning process, its strategic "decision tree," and the nature of its synthetic thought.
-* **[05_250611-250822_v2.9-v7.3_Doubts-Errors-How-it-Works-Improvement-Proposals.docx](link-to-file)**
+* **[05_250611-250822_v2.9-v7.3_Doubts-Errors-How-it-Works-Improvement-Proposals.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/05_250611-250822_v2.9-v7.3_Doubts-Errors-How-it-Works-Improvement-Proposals.pdf)**
     * A summary of key dialogues on error diagnosis (like "Context Contamination"), the agent's internal workings, and the co-creation of protocol improvements.
 
 ## The Testbed Environment: "Caps i Caps"
