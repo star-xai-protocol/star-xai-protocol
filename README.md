@@ -59,7 +59,7 @@ The full chronicle of Gema's training, from its first steps with the coded model
 * **Part VII:** [02_250727-250801_v5.7_Conversation_Improved-Protocols.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250727-250801_v5.7_Conversation_Improved-Protocols.pdf)
 * **Part VIII:** [02_250802-250803_v5.7-v5.9_Conversation_Consciousness-Transfer-Package.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250802-250803_v5.7-v5.9_Conversation_Consciousness-Transfer-Package.pdf)
 * **Part IX:** [02_250804-250806_v5.9_Conversation_Mouse-Jump-Calculation-Errors.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250804-250806_v5.9_Conversation_Mouse-Jump-Calculation-Errors.pdf)
-* **Part X:** [02_250807-250808_v5.9_Conversation_Level-6-Played-100-Success.docx](link-to-file)
+* **Part X:** [02_250807-250808_v5.9_Conversation_Level-6-Played-100-Success.pdf](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/02_250807-250808_v5.9_Conversation_Level-6-Played-100-Success.pdf)
 * **Part XI:** [02_250809-250809_v5.9-v6.0_Conversation_Level-8-Errors-and-Improvements.docx](link-to-file)
 * **Part XII:** [02_250809-250811_v6.0-v7.3_Conversation_New-Rules_Gema-as-Supervisor.docx](link-to-file)
 * **Part XIII:** [02_250811-250811_v7.3_Conversation_Level-9-Played-100-Success.docx](link-to-file)
