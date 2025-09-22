@@ -80,7 +80,8 @@ A collection of documents that extract and analyze the most revealing moments of
 All of this work was developed using **"Caps i Caps,"** a novel puzzle and strategy game. Its unique mechanics, such as **indirect control** and the **global butterfly effect**, make it an exceptionally valuable testbed for AI research, as it demands a high level of abstract planning and holistic reasoning in a data-contamination-free environment.
 
 The game is available for download here:
-* [**App Store**](https://apps.apple.com/es/app/caps-i-caps/id6745491542)
+* [**For iPhone App Store**](https://apps.apple.com/en/app/caps-i-caps/id6745491542)
+* [**For iPad App Store**](https://apps.apple.com/en/app/caps-i-caps/id6745744657)
 
 ## License
 
