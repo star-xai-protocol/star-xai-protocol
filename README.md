@@ -17,6 +17,7 @@ This research is presented in a four-paper series that builds a cohesive argumen
 * **📄 [Paper: The STAR-XAI Protocol: A Framework for Inducing and Verifying Agency, Reasoning, and Reliability in AI
 Agents](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/arXiv%20Paper.pdf)**
     * Introduces a Framework for Inducing and Verifying Agency, Reasoning, and Reliability in AI.
+    ## [Paper in arXiv, link](https://arxiv.org/abs/2509.17978)
 
 ## The Gema Chronicles: Complete Training Data
 
