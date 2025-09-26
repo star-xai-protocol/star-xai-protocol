@@ -15,7 +15,7 @@ Through Socratic dialogue and a set of rigorous integrity protocols, we demonstr
 This research is presented in a four-paper series that builds a cohesive argument from performance to reliability.
 
 * **📄 [Paper: The STAR-XAI Protocol: A Framework for Inducing and Verifying Agency, Reasoning, and Reliability in AI
-Agents](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%201%20-%20The%20STAR-XAI%20Protocol%20-%20An%20Interactive%20Framework%20for%20Inducing%20Second-Order%20Agency%20in%20AI%20Agents.pdf)**
+Agents](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/arXiv%20Paper.pdf)**
     * Introduces the protocol's architecture, its components (CTP, Gameplay Cycle), and how Socratic dialogue fosters the emergence of advanced agency.
 
 * **📄 [Paper 2: The Emergence of Strategic Reasoning: A "Clear Box" Analysis of Second-Order Agency within the STAR-XAI Protocol](https://github.com/star-xai-protocol/star-xai-protocol/blob/main/Paper%202%20-%20The%20Emergence%20of%20Strategic%20Reasoning%20-%20A%20%22Clear%20Box%22%20Analysis%20of%20Second-Order%20Agency%20within%20the%20STAR-XAI%20Protocol.pdf)**
